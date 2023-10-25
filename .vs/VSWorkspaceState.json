@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\analyses",
+    "\\macros",
+    "\\models",
+    "\\models\\example",
+    "\\seeds",
+    "\\snapshots",
+    "\\tests"
+  ],
+  "SelectedNode": "\\dbt_project.yml",
+  "PreviewInSolutionExplorer": true
+}
