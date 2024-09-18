@@ -1,4 +1,4 @@
-# dbt-tutorial
+# dbt-core-tutorial
 Let's try dbt Core with BigQuery
 
 Only run projects using a command line interface (CLI).
